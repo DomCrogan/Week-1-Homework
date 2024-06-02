@@ -2,7 +2,7 @@ This project involved creating and deploying a simple contract called `HelloWorl
 Inside the contract are functions to set and retrieve a message, as well as transfer contract ownership, and is very basic for purpose of simple homework testing.
 This project demonstrates basic Solidity programming where smart contract deployment using Remix and MetaMask was used for interaction with the contract on the Sepolia testnet.
 
-For some reason, Etherscan on Sepolia was no displaying any information, including history of transactions... so here are some screenshots of deployment, 'setText', and 'transferOwnership':
+For some reason, Etherscan on Sepolia was not displaying any information, including the history of transactions... so here are some screenshots of deployment, 'setText', and 'transferOwnership':
 
 <img width="347" alt="image" src="https://github.com/DomCrogan/Week-1-Homework/assets/35269472/9ebfd54f-636f-48ae-b8e0-4022797eba1a">
 
